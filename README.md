@@ -1,2 +1,2 @@
 # first
-test of git
+test of git by Nick
